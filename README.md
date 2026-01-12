@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+
+Analyzed a simulated sales database to understand revenue trends, product performance, and customer concentration using SQL and Python.
+
+
 # Monte Carlo Queue Analysis
 
 ## Overview
